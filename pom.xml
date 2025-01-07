@@ -2,10 +2,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.testleaf</groupId>
-	<artifactId>Salesforce</artifactId>
+	<groupId>com.oyetest</groupId>
+	<artifactId>oyetest</artifactId>
 	<version>1.21.1</version>
-	<name>simba</name>
+	<name>oyetest</name>
 	<description>Customized Playwright Framework for Web and API automation with scalability, exceptions handled and test reporting enabled.</description>
 
 	<properties>
